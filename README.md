@@ -2,10 +2,10 @@
 
 Online marketing management team providing your safety on the web.
 
--Search Engine Optimization
--Online Reputation Management
--Social Media Marketing
+-Search Engine Optimization<br>
+-Online Reputation Management<br>
+-Social Media Marketing<br>
 
-![management meeting](/Users/ianflanagan/Desktop/Bootcamp/projects/Horiseon/assets/images/digital-marketing-meeting.jpg)
+![Team Meeting](https://github.com/Ian-Flanagan/Horiseon/blob/master/assets/images/digital-marketing-meeting.jpg)
 
-https://ian-flanagan.github.io/Horiseon/
+<h3 align="center">Checkout Horiseon website here:<h4 align="center">https://ian-flanagan.github.io/Horiseon/
