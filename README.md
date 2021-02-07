@@ -1,11 +1,11 @@
-#<h1 align="center">Horiseon</h1> 
+<h1 align="center">Horiseon</h1> 
 
-####Online marketing management team providing your safety on the web.
+Online marketing management team providing your safety on the web.
 
-#####-Search Engine Optimization
-#####-Online Reputation Management
-#####-Social Media Marketing
+-Search Engine Optimization
+-Online Reputation Management
+-Social Media Marketing
 
-#![management meeting](/Users/ianflanagan/Desktop/Bootcamp/projects/Horiseon/assets/images/digital-marketing-meeting.jpg)
+![management meeting](/Users/ianflanagan/Desktop/Bootcamp/projects/Horiseon/assets/images/digital-marketing-meeting.jpg)
 
-######https://ian-flanagan.github.io/Horiseon/
+https://ian-flanagan.github.io/Horiseon/
